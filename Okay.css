@@ -1,0 +1,30 @@
+.flexbox-container {
+  font-size: 25px;
+  border: 5px solid black;
+  background-color: rgb(148, 107, 237);
+  border-radius: 100px;
+  height: 100vh;
+  align-items: flex-start;
+  display: flex;
+}
+
+.flexbox-item {
+  border: 8px solid;
+  border-color: rgb(16, 11, 18);
+  border-radius: inherit;
+  padding: 10px;
+  margin: 20px;
+  align-content: center;
+}
+
+.flexbox-item-1 {
+  min-height: 100px;
+  background-color: red;
+  color: rgb(4, 239, 4);
+}
+.h2 {
+  background-color: green;
+}
+.hello {
+  background-color: red;
+}
